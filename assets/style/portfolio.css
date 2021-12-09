@@ -1,0 +1,26 @@
+.porfolio {
+  background-color: var(--color-dark-blue);
+  padding: 60px 0;
+}
+
+.portfolio-content {
+}
+.portfolio-row {
+}
+.portfolio-block {
+  display: flex;
+  margin: 0 auto;
+  padding: 10px 0;
+  justify-content: center;
+}
+.portfolio-block-img {
+}
+.portfolio-img {
+}
+.item-content {
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  color: white;
+  padding: 10px 0 10px 10px;
+}

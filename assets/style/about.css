@@ -1,0 +1,17 @@
+
+.about {
+  background-color: white;
+}
+.about-content {
+text-align: center;
+justify-content: center;
+}
+.about-tittle {
+  display: inline-block;
+  padding-top: 60px;
+ 
+}
+.about-text {
+  padding: 60px 0;
+  display: inline-block;
+}

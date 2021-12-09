@@ -1,0 +1,41 @@
+.design-1 {
+}
+.content {
+}
+.design-1-text {
+  line-height: 26px;
+  color: #727272;
+  display: inline-block;
+  padding: 50px 0;
+}
+.design-1-title {
+  font-weight: 500;
+  font-size: 48px;
+}
+.design-container-img {
+  text-align: center;
+}
+.design-1-img {
+  max-width: 100%;
+  max-height: 100%;
+}
+.design-link {
+  border: 1px solid var(--color-dark-blue);
+  padding: 15px 41px;
+  background-color: var(--color-dark-blue);
+  color: var(--color-white);
+  text-transform: uppercase;
+  font-size: 12px;
+  display: inline-block;
+  letter-spacing: 0.1em;
+}
+.design-row {
+  padding: 30px 0 100px;
+  align-items: center;
+}
+@media screen and (max-width: 764px) {
+  .content {
+    text-align: center;
+    margin-top: 15px;
+  }
+}

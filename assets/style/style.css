@@ -1,0 +1,22 @@
+@import "./grid.css";
+@import url("https://fonts.googleapis.com/css2?family=Revalia&display=swap");
+@import "./element-text.css";
+@import "./project-screen.css";
+:root {
+  --color-dark-blue: #34547a;
+  --color-white: white;
+}
+body {
+  background-color: #eeeff1;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+main {
+  flex: 1 1 auto;
+}
+* {
+  text-decoration: none;
+  color: inherit;
+}
